@@ -1,7 +1,4 @@
-## Hi there 👋
-**J4YCHSTY/J4YCHSTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![J4YCHSTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4YCHSTY&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🔭 I’m currently working on Web based project
 - 🌱 I’m currently learning Astro, react, python
