@@ -1,9 +1,3 @@
-![J4YCHSTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4YCHSTY&show_icons=true&theme=transparent&show_icons=true)
-
-- 🔭 I’m currently working on Web based project
-- 🌱 I’m currently learning Astro, react, python
-- 👯 I’m looking to collaborate on Anyone who can help me grow
-- 💬 Ask me about anythin
-- 📫 How to reach me: jaychristy05@gmail.com
-- 😄 Pronouns: HE / HIM
-- ⚡ Fun fact: <!><!>
+<p align="center">
+  ![J4YCHSTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4YCHSTY&show_icons=true&theme=swift&show_icons=true)
+</p>
