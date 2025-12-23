@@ -25,5 +25,5 @@
 
 <div align="center">
   <h3>🛃 Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=J4YCHSTY&show_icons=true&theme=swift&show_icons=true" alt="J4YCHSTY Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4YCHSTY&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
