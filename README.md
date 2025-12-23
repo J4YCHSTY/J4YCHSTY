@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1122616506778402871/1453006108389150751/J4YCHSTY_1.gif?ex=694be0e3&is=694a8f63&hm=7a83d50748aeab3cbd7ffc1f2a49d8b0e4f56c1417fd82774d2deca4a17c0962&" width="100%" alt="Welcome Banner" />
+  <img src="header.gif" width="100%" alt="Welcome Banner" />
 </div>
 
 <br />
